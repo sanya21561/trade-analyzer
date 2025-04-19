@@ -1,6 +1,6 @@
 Enter these commands
 ```
-git clone https://github.com/Mahekjain2706/hypothetical-trade-analyzer.git
+git clone https://github.com/sanya21561/trade-analyzer.git
 cd hypothetical-trade-analyzer
 pip install -r requirements.txt
 ```
