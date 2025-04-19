@@ -1,7 +1,7 @@
 Enter these commands
 ```
 git clone https://github.com/sanya21561/trade-analyzer.git
-cd hypothetical-trade-analyzer
+cd trade-analyzer
 pip install -r requirements.txt
 ```
 ```
